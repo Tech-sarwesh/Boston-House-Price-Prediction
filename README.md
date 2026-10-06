@@ -1,10 +1,15 @@
 # 🏠 Boston House Price Prediction
 
+Machine Learning regression project developed as part of the **ShadowFox Machine Learning Engineer Internship**.
+
 ## 📌 Description
 
-A Machine Learning regression project that predicts Boston house prices using the Boston Housing dataset.
+This project is a Machine Learning regression project that predicts the median value of houses using the Boston Housing dataset.
+The dataset contains 506 records and 14 columns, including 13 input features and one target variable, MEDV.
+The project covers the complete machine-learning workflow:
+Data Loading → Data Cleaning → EDA → Preprocessing → Train/Test Split → Model Training → Model Comparison → Hyperparameter Tuning → Final Evaluation → Prediction
+The main objective is to build a regression model that can learn the relationship between housing-related features and the median house value.
 
-The project includes data preprocessing, exploratory data analysis, multiple regression models, model evaluation, and hyperparameter tuning. The final model used is Gradient Boosting Regressor.
 
 ## 🔄 Workflow
 
