@@ -11,5 +11,3 @@ env/
 .DS_Store
 
 *.log
-
-models/*.pkl
